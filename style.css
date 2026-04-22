@@ -2,11 +2,11 @@
 
 :root {
     --cor-de-fundo: #1E1E1E;
-    --verde: #6FFF57;
+    --verde: #68ff57;
     --branco: #FFFFFF;
-    --botao-ativo: #3A375E;
-    --botao-inativo: rgba(58, 55, 94, 0.5);
-    --texto-fundo: rgba(58, 55, 94, 0.3);
+    --botao-ativo: #5e4b37;
+    --botao-inativo: rgba(94, 73, 55, 0.5);
+    --texto-fundo: rgba(94, 68, 55, 0.3);
 }
 
 body {
@@ -29,7 +29,7 @@ body {
 .titulo-principal {
     text-align: left;
     width: 100%;
-    font-size: 32px;
+    font-size: 40px;
 }
 
 .titulo-principal span {
